@@ -2,8 +2,12 @@
     "java.configuration.updateBuildConfiguration": "automatic",
     "java.compile.nullAnalysis.mode": "automatic",
     "cSpell.words": [
+        "Calendarhandling",
         "chromedriver",
+        "foipm",
+        "Fwsb",
         "loginbutton",
-        "stripbooks"
+        "stripbooks",
+        "Trvl"
     ]
 }
